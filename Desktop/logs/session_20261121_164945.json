@@ -1,0 +1,175 @@
+{
+  "app": "Classification of Glass Products",
+  "version": "3.3",
+  "session_start": "2026-11-21T16:49:09.946256",
+  "session_end": "2026-11-21T16:49:45.910003",
+  "duration_seconds": 35.963747,
+  "total_entries": 33,
+  "entries": [
+    {
+      "timestamp": "16:49:10",
+      "level": "info",
+      "message": "📊 Dataset установлен: 214 записей"
+    },
+    {
+      "timestamp": "16:49:10",
+      "level": "success",
+      "message": "✓ Данные загружены: d:\\Masha\\Курс2\\Языки программирования для задач искусственного интелекта\\Курсовая работа\\CourseWork\\MainProgram\\glassData.txt"
+    },
+    {
+      "timestamp": "16:49:10",
+      "level": "info",
+      "message": "   • объектов: 214, признаков: 9"
+    },
+    {
+      "timestamp": "16:49:10",
+      "level": "info",
+      "message": "👁 Предпросмотр: показано 5 строк из 214"
+    },
+    {
+      "timestamp": "16:49:17",
+      "level": "success",
+      "message": "✓ Модель загружена: D:/Masha/Курс2/Языки программирования для задач искусственного интелекта/Курсовая работа/CourseWork/MainProgram/kneighborsclassifier_20261120_214521_model.pkl"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "Нажата кнопка 'Предсказать Type'"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Считано значений: 10"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "🔍 Начало предсказания для Id=1"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Признаки: RI=1.5184, Na=13.4, Mg=2.68, Al=1.44, Si=72.65, K=0.49, Ca=8.95, Ba=0.18, Fe=0.06"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Очищенные признаки: 9 значений"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Вызов predict_single..."
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "success",
+      "message": "   ✓ Предсказан Type = 1"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Получено 6 вероятностей"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "success",
+      "message": "   ✓ Оценка уверенности: 0.800 (margin=0.600, entropy=0.279)"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Метрики модели: accuracy=0.721"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "success",
+      "message": "✅ Предсказание завершено для Id=1"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "Получен результат предсказания: Type=1"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Отображён результат предсказания"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Отображена оценка уверенности"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "Нажата кнопка 'Предсказать Type'"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Считано значений: 10"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "🔍 Начало предсказания для Id=1"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Признаки: RI=1.5184, Na=13.4, Mg=2.68, Al=1.44, Si=72.65, K=0.49, Ca=8.95, Ba=0.18, Fe=0.06"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Очищенные признаки: 9 значений"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Вызов predict_single..."
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "success",
+      "message": "   ✓ Предсказан Type = 1"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Получено 6 вероятностей"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "success",
+      "message": "   ✓ Оценка уверенности: 0.800 (margin=0.600, entropy=0.279)"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Метрики модели: accuracy=0.721"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "success",
+      "message": "✅ Предсказание завершено для Id=1"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "Получен результат предсказания: Type=1"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Отображён результат предсказания"
+    },
+    {
+      "timestamp": "16:49:24",
+      "level": "info",
+      "message": "   Отображена оценка уверенности"
+    }
+  ]
+}
